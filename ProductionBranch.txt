@@ -1,0 +1,10 @@
+Production Branch
+
+Feature 1
+Feature 2
+Feature n
+
+This is HotFixBranch created from Production Branch
+This is IntegrationBranch created from HotFixBranch
+Now Feature1 is created from Integration Branch
+Finally Feature2 is created
